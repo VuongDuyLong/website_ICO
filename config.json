@@ -1,0 +1,12 @@
+{
+  "dev": {},
+  "sepolia": {
+    "Floppy": "0x7F0bCE2C0D227Cb33C9A2e41880Aa1C759dCB1C3",
+    "Vault": "0x066512b3c651C1F59265E07a721C6c8C9FE1e0BC",
+    "Hero": "0xa9824aF7395d8dE0FCf898b02Ef654A760b8Fd81",
+    "HeroMarketplace": "0xBa28d067F7913F8223eCBA781b98d6e8c41e94cD",
+    "USDT": "0xE30dF2D35D5E61cA57AebF936b727a5750cf2beE",
+    "ico": "0x93054573540d471d0e4aD3a4115065F0E2221ba3"
+  },
+  "main": {}
+}
